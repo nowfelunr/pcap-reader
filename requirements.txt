@@ -1,0 +1,8 @@
+appdirs==1.4.4
+dpkt==1.9.8
+lxml==4.9.1
+packaging==21.3
+py==1.11.0
+pyparsing==3.0.9
+pyshark==0.5.3
+scapy==2.4.5
